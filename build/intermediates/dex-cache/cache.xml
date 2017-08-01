@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arad_Sheybak\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\AndroidProjects\EnglishLearning\app\build\intermediates\pre-dexed\debug\glide-3.7.0_aff80496d5f7a145cb1bdf7283c1fa23d8e25cab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\EnglishLearning\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\AndroidProjects\EnglishLearning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6db0fce2d6a63a32c79f8f84835349c57a3c1c59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProjects\EnglishLearning\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3a43a1594e4736aaa2cba8275b88023033342b4">
+        <dex dex="F:\AndroidProjects\EnglishLearning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d24ba59a9e5d59f84d23597a8242839903679817\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arad_Sheybak\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="F:\AndroidProjects\EnglishLearning\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_60405b4c935dc9df6f5b3abdf66cae9930dee078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arad_Sheybak\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="F:\AndroidProjects\EnglishLearning\app\build\intermediates\pre-dexed\debug\library-1.0.19_40e25e4a6c2abb1fe4a32cda30576193a6e3a240.jar" />
+    </item>
+
+</items>
